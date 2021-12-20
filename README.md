@@ -7,6 +7,7 @@ This repository is an example on how to use the Brownie Ethereum Python Framewor
 This project follows the [brownie project structure](https://eth-brownie.readthedocs.io/en/stable/structure.html)
 
 * `contracts/Faucet.sol`: smart contract in Solidity that allows to withdraw funds from it.
+* `contracts/HelloWorld.sol`: smart contract in Solidity that allows that returns "Hello World!".
 * `scripts/faucet.py`: Python script that deploys the Faucet, transfers funds to the Faucet, and withdraws funds from the Faucet.
 * `.vscode/`: VScode project settings and tasks
 
@@ -20,7 +21,7 @@ This project follows the [brownie project structure](https://eth-brownie.readthe
 ```bash
 git clone https://github.com/k0nze/eth_brownie_vscode_example.git
 cd eth_brownie_vscode_example
-python -m venv .env
+python -m venv .venv
 source .venv/bin/activate
 python -m pip install eth-brownie
 brownie run faucet.py
