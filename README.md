@@ -8,7 +8,7 @@ This project follows the [brownie project structure](https://eth-brownie.readthe
 
 * `brownie-config.yaml`: Config file for this project.
 * `contracts/Faucet.sol`: smart contract in Solidity that allows to withdraw funds from it.
-* `contracts/HelloWorld.sol`: smart contract in Solidity that allows that returns "Hello World!".
+* `contracts/HelloWorld.sol`: smart contract in Solidity that returns "Hello World!".
 * `scripts/faucet.py`: Python script that deploys the Faucet, transfers funds to the Faucet, and withdraws funds from the Faucet.
 * `.vscode/`: VScode project settings and tasks.
 
