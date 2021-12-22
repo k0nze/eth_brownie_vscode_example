@@ -1,6 +1,12 @@
 # Brownie VSCode Example
 
-This repository is an example on how to use the Brownie Ethereum Python Framework to compile and run a Solidity smart contract on a local Ethereum network through the `ganache-cli`.
+[![`[YouTube]`](https://img.shields.io/badge/-k0nze%20builds-ff0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3_SywgWxpEBIoKawK2E3MA) 
+[![`[Twitter]`](https://img.shields.io/badge/-@k0nze_-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/k0nze_) 
+[![`[Discord]`](https://img.shields.io/discord/713121297407672380.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.k0nze.gg)
+[![`[Patreon]`](https://img.shields.io/badge/-Patreon-f96854?logo=patreon&logoColor=white)](https://patreon.com/k0nze)
+[![`[LinkedIn]`](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/konstantin-luebeck/)
+
+This repository is an example on how to use the Brownie Ethereum Python Framework to compile and run a Solidity smart contract on a local Ethereum network through the `ganache-cli`. Find the article for it over here: [k0nze.dev/posts/solidity-smart-contract-python-vscode](https://k0nze.dev/posts/solidity-smart-contract-python-vscode)
 
 ## Project Structure
 
